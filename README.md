@@ -19,17 +19,17 @@ Herramienta de ciberseguridad en Python para escanear y detectar dispositivos ac
 ## Instalación
 ```bash
 # Clonar o descargar el archivo
-wget https://tu-repo/network_scanner.py
+wget https://CybersecurityTools-for-Educatoin/IPscan.py
 
 # Dar permisos de ejecución (Linux/Mac)
-chmod +x network_scanner.py
+chmod +x IPscan.py
 ```
 
 ## Uso
 
 ### Ejecución básica
 ```bash
-python3 network_scanner.py
+python3 IPscan.py
 ```
 
 ### Opciones disponibles
@@ -78,7 +78,8 @@ python3 network_scanner.py
 - **Timeout**: Aumenta el valor de timeout en la función `scan_port()`
 
 ## Autor
-Herramienta educativa de ciberseguridad
+Maximiliano Hernández
 
 ## Licencia
+
 Uso educativo y personal
