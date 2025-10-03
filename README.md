@@ -19,7 +19,7 @@ Herramienta de ciberseguridad en Python para escanear y detectar dispositivos ac
 ## Instalación
 ```bash
 # Clonar o descargar el archivo
-wget https://CybersecurityTools-for-Educatoin/IPscan.py
+wget https://CybersecurityTools-for-Education/IPscan.py
 
 # Dar permisos de ejecución (Linux/Mac)
 chmod +x IPscan.py
@@ -83,3 +83,4 @@ Maximiliano Hernández
 ## Licencia
 
 Uso educativo y personal
+
